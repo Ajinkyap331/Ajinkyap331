@@ -1,8 +1,12 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ajinkya</h1>
 <h3 align="center">Full Stack Developer |React Js| Django| Python Intermediate </h3>
 
+<h1 align = "center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ajinkyap331&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+</h1>
 
 ## 🙋‍♂️ About Me
 
@@ -14,11 +18,11 @@
 
 - 📫 How to reach me **[My Portfolio](https://ajinkyapatil.web.app/)**
 
-- ⚡ Fun fact **Lazy Programmer😂**
+- ⚡ Fun fact **Foody Programmer😂**
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
+<p align="center"> 
     <a> <img src="https://img.icons8.com/color/48/000000/django.png"/> </a>
     <a> <img src="https://img.icons8.com/color/48/000000/python--v2.png"/> </a> 
     <a> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a> 
@@ -72,3 +76,4 @@
     <img src="https://komarev.com/ghpvc/?username=Ajinkyap331">
 </a>
 <a href="https://github.com/Ajinkyap331?tab=followers"><img src="https://img.shields.io/github/followers/Ajinkyap331?label=Followers&style=social" alt="GitHub Badge"></a>
+"# Ajinkyap331" 
