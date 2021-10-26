@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ajinkya</h1>
-<h3 align="center">Full Stack Developer |React Js| Django| Python Intermediate </h3>
+<h3 align="center">Full Stack Developer | React Js | Django | Python Intermediate | THREE.js| </h3>
 
 <h1 align = "center">
 
@@ -27,9 +27,9 @@
     <a> <img src="https://img.icons8.com/color/48/000000/python--v2.png"/> </a> 
     <a> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a> 
     <a style="padding-right:8px;"  target="_blank"> <img src="https://img.icons8.com/color/48/26e07f/react-native.png"/> </a> 
-    <a> <img src="https://img.icons8.com/windows/48/26e07f/node-js.png" alt="mongodb" width="48" height="48"/> </a> 
+    <a> <img src="https://img.icons8.com/windows/48/26e07f/node-js.png" width="48" height="48"/> </a> 
     <a> <img src="https://img.icons8.com/color/48/26e07f/css3.png"/> </a> 
-    <a> <img src="https://img.icons8.com/color/144/26e07f/html-5--v1.png" alt="postman" width="45" height="45"/> </a>   
+    <a> <img src="https://img.icons8.com/color/144/26e07f/html-5--v1.png"  width="45" height="45"/> </a>   
     <a> <img src="https://img.icons8.com/color/48/26e07f/java-coffee-cup-logo--v1.png"/></a> 
     <a> <img src="https://img.icons8.com/color/48/26e07f/flutter.png"/></a>
     <a> <img src="https://img.icons8.com/color/48/000000/firebase.png"/></a>
