@@ -28,7 +28,7 @@
     <a> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a> 
     <a style="padding-right:8px;"  target="_blank"> <img src="https://img.icons8.com/color/48/26e07f/react-native.png"/> </a> 
     <img src="https://img.icons8.com/color/48/000000/redux.png"/>
-    <img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fdiscourse.threejs.org%2Ft%2Fthree-js-svg-logo%2F21835&psig=AOvVaw0NdUT-ropBtLhNBtJ1Lpp7&ust=1635422549072000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOC2g_XF6vMCFQAAAAAdAAAAABAD" width="48" height="48"/>
+    <img src = "https://aws1.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" width="48" height="48"/>
     <a> <img src="https://img.icons8.com/windows/48/26e07f/node-js.png" width="48" height="48"/> </a> 
     <a> <img src="https://img.icons8.com/color/48/26e07f/css3.png"/> </a> 
     <a> <img src="https://img.icons8.com/color/144/26e07f/html-5--v1.png"  width="45" height="45"/> </a>   
