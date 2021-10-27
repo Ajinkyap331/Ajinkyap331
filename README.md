@@ -35,6 +35,7 @@
     <a> <img src="https://img.icons8.com/color/48/26e07f/java-coffee-cup-logo--v1.png"/></a> 
     <a> <img src="https://img.icons8.com/color/48/26e07f/flutter.png"/></a>
     <a> <img src="https://img.icons8.com/color/48/000000/firebase.png"/></a>
+    <img src="https://img.icons8.com/color/48/000000/dart.png"/>
      
 </p>
 
