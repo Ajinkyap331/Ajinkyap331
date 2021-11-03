@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ajinkya</h1>
-<h3 align="center"> Full Stack Developer | React JS | Django | THREE.js | Redux | Python Intermediate </h3>
+<h3 align="center"> Full Stack Developer | React JS | Django | THREE.js | Redux | Flutter | React Native </h3>
 
 <h1 align = "center">
 
@@ -12,7 +12,9 @@
 
 - 🔭 I’m currently Working on **Open Source Projects**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Flutter, Machine Learning, DSA.**
+
+- 💬 Ask me about ReactJS, Redux, Flutter, Python, Django, Competitive Programming, Java, React Native
 
 - 👨‍💻 All of my projects are available at **[My Github](https://github.com/Ajinkyap331?tab=repositories)**
 
