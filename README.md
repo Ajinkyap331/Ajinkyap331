@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **[My Portfolio](https://ajinkyapatil.web.app/)**
 
-- ⚡ Fun fact **Foody Programmer😂**
+- ⚡ Fun fact **Cheerful Programmer😂**
 
 ## 🚀 Languages and Tools:
 
